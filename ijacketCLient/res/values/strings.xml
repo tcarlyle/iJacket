@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="firstMessage">Select a team</string>
+    <string name="secondMessage">Short message</string>
+    
+    <string name="app_name">iJacketClient</string>
+    <string name="edit_message">message</string>
+    <string name="ringButton">ring</string>
+    <string name="vibrateButton">vibrate</string>
+</resources>
